@@ -1,0 +1,2 @@
+# Skillathon
+Machine learning projects
